@@ -1,5 +1,5 @@
 ---
-name: Add Review Badge
+name: Add Review Badge 👁️
 about: Request a back-link to your review, crev repository, etc.
 labels: 'review'
 assignees: 'MaulingMonkey'
