@@ -1,5 +1,8 @@
 blank_issues_enabled: true
 contact_links:
+  - name: "Discord: MaulingMonkey#1444"
+    url: https://discordapp.com/users/261743851696291841
+    about: Feel free to ping me!
   - name: "Discord: GameDev.net"
     url: https://discord.gg/nxAZMPU
     about: You can ping @MaulingMonkey about stuff here
